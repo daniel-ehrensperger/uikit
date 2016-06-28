@@ -1,10 +1,12 @@
-# UI-Kit 
+# UI-Kit
 
-The PNT Styleguide library is a growing resource with ready-to-use front-end building blocks and Sketch Files for internal use. We've used the ones you'll find in this UI-Kit to build our Digital Products. 
+The PNT Styleguide library is a growing resource with ready-to-use front-end building blocks and Sketch Files for internal use. We've used the ones you'll find in this UI-Kit to build our Digital Prototypes.
 
 ##### Release Notes
-### New in UI-Kit 1.0.1
-* png icons replaced by svg icons
+### New in UI-Kit 1.2
+* Added Looping Elements: 2FA Form.
+* Added Pulse Elements: Buttons, Charts, Forms...
+* png icons replaced by svg icons...
 
 
 ### Other Enhancements
@@ -22,4 +24,4 @@ The PNT Styleguide library is a growing resource with ready-to-use front-end bui
 
 
 ## Usage
-For fast Prototyping and Building Minimal Lovable Products
+For fast Prototyping and Building Minimal Lovable Prototype.
